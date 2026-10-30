@@ -6,6 +6,8 @@
 
 A collection of hands-on projects exploring Large Language Models (LLMs), Generative AI, and AI application development using Python.
 
+The projects cover LLM integration, prompt engineering, web scraping, tokenization, conversation management, and working with both cloud-based and locally hosted AI models.
+
 ## Projects
 
 ### 1. AI Website Summariser
@@ -32,16 +34,29 @@ A Python notebook exploring tokenization, token IDs, chat completion requests, a
 
 [View Project](./ai-tokenization-and-conversation-state-manish-kundu.ipynb)
 
+### 4. AI Company Brochure Generator
+
+A Python application that extracts relevant information from company websites and generates structured company brochures using locally hosted LLMs through Ollama. Supports DeepSeek and Llama models, web scraping, prompt engineering, Markdown generation, and streaming responses.
+
+**Technologies:** Python, Ollama, DeepSeek, Llama, OpenAI-compatible API, Web Scraping, Jupyter Notebook.
+
+[View Project](./ai-company-brochure-generator-manish-kundu.ipynb)
+
 ## Technologies & Topics
 
 - Python and Jupyter Notebooks
 - Large Language Models (LLMs)
+- OpenAI and Google Gemini APIs
+- Local LLMs with Ollama
+- DeepSeek and Llama
 - Tokenization and Token Counting
 - Chat Completion APIs
 - Prompt Engineering
 - Generative AI
+- Web Scraping and Content Extraction
 - API Integration
 - Conversation Context Management
+- Streaming LLM Responses
 
 ## Author
 
