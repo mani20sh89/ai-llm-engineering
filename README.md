@@ -42,6 +42,14 @@ A Python application that extracts relevant information from company websites an
 
 [View Project](./ai-company-brochure-generator-manish-kundu.ipynb)
 
+### 5. AI Technical Question Explainer
+
+A Python notebook that uses OpenAI and local Ollama models to explain technical questions through AI-generated responses. Demonstrates chat completion APIs, prompt engineering, and streaming responses.
+
+**Technologies:** Python, OpenAI API, Ollama, Llama 3.2, Jupyter Notebook.
+
+[View Project](./ai-technical-question-explainer-manish-kundu.ipynb)
+
 ## Technologies & Topics
 
 - Python and Jupyter Notebooks
