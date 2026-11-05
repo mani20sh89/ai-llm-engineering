@@ -98,6 +98,14 @@ A Python notebook comparing multiple LLMs through OpenRouter to generate SVG ill
 
 [View Project](./ai-svg-generation-model-comparison-manish-kundu.ipynb)
 
+### 12. Hugging Face Transformers Pipelines Showcase
+
+A Python notebook demonstrating pretrained Hugging Face pipelines for NLP and generative AI tasks. Covers sentiment analysis, named entity recognition, question answering, summarization, translation, zero-shot classification, text generation, image generation, and text-to-speech.
+
+**Technologies:** Python, Hugging Face Transformers, Diffusers, PyTorch, Hugging Face Hub, NLP, Generative AI, Jupyter Notebook.
+
+[View Project](./huggingface-transformers-pipelines-showcase-manish-kundu.ipynb)
+
 ## Technologies & Topics
 
 - Python and Jupyter Notebooks
@@ -108,6 +116,14 @@ A Python notebook comparing multiple LLMs through OpenRouter to generate SVG ill
 - DeepSeek and Llama
 - Groq, xAI and OpenRouter
 - LiteLLM and LangChain
+- Hugging Face Transformers and Diffusers
+- PyTorch and Hugging Face Hub
+- NLP Pipelines and Pretrained Models
+- Sentiment Analysis and Named Entity Recognition
+- Question Answering and Text Summarization
+- Machine Translation and Zero-Shot Classification
+- Text and Image Generation
+- Text-to-Speech
 - Gradio and Interactive AI Applications
 - Conversational AI Chatbots
 - Tokenization and Token Counting
@@ -123,8 +139,6 @@ A Python notebook comparing multiple LLMs through OpenRouter to generate SVG ill
 - Streaming LLM Responses
 - Function Calling and Tool Integration
 - SQLite and Database Integration
-- Image Generation
-- Text-to-Speech
 - Multimodal AI Applications
 - SVG Generation and Rendering
 - LLM Model Comparison and Benchmarking
