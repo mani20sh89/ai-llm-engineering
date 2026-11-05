@@ -82,6 +82,14 @@ A Python application that builds an AI-powered airline customer support assistan
 
 [View Project](./ai-airline-assistant-tool-calling-manish-kundu.ipynb)
 
+### 10. Multimodal Airline AI Assistant
+
+A Python application that builds a multimodal airline customer-support assistant using OpenAI APIs and Gradio. Combines function calling and SQLite database lookups with AI-generated destination images and text-to-speech responses through a custom interactive interface.
+
+**Technologies:** Python, OpenAI API, Gradio, SQLite, Function Calling, Image Generation, Text-to-Speech, Multimodal AI, Jupyter Notebook.
+
+[View Project](./ai-multimodal-airline-assistant-manish-kundu.ipynb)
+
 ## Technologies & Topics
 
 - Python and Jupyter Notebooks
@@ -107,6 +115,9 @@ A Python application that builds an AI-powered airline customer support assistan
 - Streaming LLM Responses
 - Function Calling and Tool Integration
 - SQLite and Database Integration
+- Image Generation
+- Text-to-Speech
+- Multimodal AI Applications
 - AI Application Development
 
 ## Author
