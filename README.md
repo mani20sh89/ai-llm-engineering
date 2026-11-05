@@ -50,13 +50,13 @@ A Python notebook that uses OpenAI and local Ollama models to explain technical 
 
 [View Project](./ai-technical-question-explainer-manish-kundu.ipynb)
 
-### 6. Multi-Model LLM Engineering
+### 6. AI LLM API Integration
 
-A Python notebook demonstrating integration with multiple LLM providers, locally hosted models, model routing, prompt caching, token usage, and multi-agent conversations.
+A Python notebook exploring integration with multiple LLM providers and locally hosted models. Covers OpenAI-compatible APIs, provider-specific SDKs, model routing, prompt caching, token usage, and multi-model conversations.
 
-**Technologies:** Python, OpenAI API, Google Gemini, Anthropic, DeepSeek, Groq, xAI, OpenRouter, Ollama, LiteLLM, Jupyter Notebook.
+**Technologies:** Python, OpenAI SDK, Google Gemini, Anthropic, DeepSeek, Groq, xAI, OpenRouter, Ollama, LiteLLM, LangChain, Jupyter Notebook.
 
-[View Project](./ai-multi-model-llm-engineering-manish-kundu.ipynb)
+[View Project](./ai-llm-api-integration-manish-kundu.ipynb)
 
 ## Technologies & Topics
 
@@ -67,7 +67,7 @@ A Python notebook demonstrating integration with multiple LLM providers, locally
 - Local LLMs with Ollama
 - DeepSeek and Llama
 - Groq, xAI and OpenRouter
-- LiteLLM and Model Routing
+- LiteLLM and LangChain
 - Tokenization and Token Counting
 - Chat Completion APIs
 - Prompt Engineering
