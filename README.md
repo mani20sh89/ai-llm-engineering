@@ -74,6 +74,14 @@ A Python notebook demonstrating how to build a conversational AI chatbot using O
 
 [View Project](./ai-conversational-chatbot-manish-kundu.ipynb)
 
+### 9. AI Airline Assistant with Tool Calling
+
+A Python application that builds an AI-powered airline customer support assistant using OpenAI APIs and Gradio. Demonstrates function calling, multiple tool execution, SQLite database integration, and dynamic ticket-price retrieval and updates.
+
+**Technologies:** Python, OpenAI API, Gradio, SQLite, Function Calling, Tool Integration, Jupyter Notebook.
+
+[View Project](./ai-airline-assistant-tool-calling-manish-kundu.ipynb)
+
 ## Technologies & Topics
 
 - Python and Jupyter Notebooks
@@ -97,6 +105,8 @@ A Python notebook demonstrating how to build a conversational AI chatbot using O
 - Prompt Caching
 - Multi-Agent Conversations
 - Streaming LLM Responses
+- Function Calling and Tool Integration
+- SQLite and Database Integration
 - AI Application Development
 
 ## Author
