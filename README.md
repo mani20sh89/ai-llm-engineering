@@ -90,6 +90,14 @@ A Python application that builds a multimodal airline customer-support assistant
 
 [View Project](./ai-multimodal-airline-assistant-manish-kundu.ipynb)
 
+### 11. LLM SVG Generation Benchmark
+
+A Python notebook comparing multiple LLMs through OpenRouter to generate SVG illustrations from text prompts. Covers multi-model API integration, response timing, SVG parsing, and output rendering.
+
+**Technologies:** Python, OpenRouter, LLM APIs, SVG, Model Benchmarking, Jupyter Notebook.
+
+[View Project](./ai-svg-generation-model-comparison-manish-kundu.ipynb)
+
 ## Technologies & Topics
 
 - Python and Jupyter Notebooks
@@ -118,6 +126,8 @@ A Python application that builds a multimodal airline customer-support assistant
 - Image Generation
 - Text-to-Speech
 - Multimodal AI Applications
+- SVG Generation and Rendering
+- LLM Model Comparison and Benchmarking
 - AI Application Development
 
 ## Author
