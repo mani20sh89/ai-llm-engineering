@@ -106,6 +106,14 @@ A Python notebook demonstrating pretrained Hugging Face pipelines for NLP and ge
 
 [View Project](./huggingface-transformers-pipelines-showcase-manish-kundu.ipynb)
 
+### 13. AI Tokenizers and Text Processing
+
+A Python notebook exploring how LLM tokenizers convert text into token IDs. Covers text encoding and decoding, tokenizer vocabulary, instruction-tuned model chat templates, and tokenization comparisons across Llama 3.1, Phi-4 Mini, DeepSeek-V3.1, and Qwen2.5-Coder.
+
+**Technologies:** Python, Hugging Face Transformers, Hugging Face Hub, Llama 3.1, Phi-4 Mini, DeepSeek-V3.1, Qwen2.5-Coder, Tokenization, Jupyter Notebook.
+
+[View Project](./ai-tokenizers-and-text-processing-manish-kundu.ipynb)
+
 ## Technologies & Topics
 
 - Python and Jupyter Notebooks
@@ -127,6 +135,9 @@ A Python notebook demonstrating pretrained Hugging Face pipelines for NLP and ge
 - Gradio and Interactive AI Applications
 - Conversational AI Chatbots
 - Tokenization and Token Counting
+- Token IDs and Vocabulary Encoding
+- Hugging Face Tokenizers
+- Model-Specific Chat Templates
 - Chat Completion APIs
 - Prompt Engineering and System Prompts
 - Generative AI
