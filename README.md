@@ -6,7 +6,7 @@
 
 A collection of hands-on projects exploring Large Language Models (LLMs), Generative AI, and AI application development using Python.
 
-The projects cover LLM integration, prompt engineering, web scraping, tokenization, conversation management, and working with both cloud-based and locally hosted AI models.
+The projects cover LLM integration, prompt engineering, web scraping, tokenization, conversation management, multi-model orchestration, and building interactive AI applications using both cloud-based and locally hosted models.
 
 ## Projects
 
@@ -58,6 +58,14 @@ A Python notebook exploring integration with multiple LLM providers and locally 
 
 [View Project](./ai-llm-api-integration-manish-kundu.ipynb)
 
+### 7. AI Gradio Applications
+
+A Python notebook demonstrating how to build interactive AI applications using Gradio. Covers LLM integration, streaming responses, multi-model selection, and a web-based AI company brochure generator.
+
+**Technologies:** Python, Gradio, OpenAI API, Ollama, LLM Integration, Streaming Responses, Jupyter Notebook.
+
+[View Project](./ai-gradio-llm-applications-manish-kundu.ipynb)
+
 ## Technologies & Topics
 
 - Python and Jupyter Notebooks
@@ -68,6 +76,7 @@ A Python notebook exploring integration with multiple LLM providers and locally 
 - DeepSeek and Llama
 - Groq, xAI and OpenRouter
 - LiteLLM and LangChain
+- Gradio and Interactive AI Applications
 - Tokenization and Token Counting
 - Chat Completion APIs
 - Prompt Engineering
@@ -78,6 +87,7 @@ A Python notebook exploring integration with multiple LLM providers and locally 
 - Prompt Caching
 - Multi-Agent Conversations
 - Streaming LLM Responses
+- AI Application Development
 
 ## Author
 
