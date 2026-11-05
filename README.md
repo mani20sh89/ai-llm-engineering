@@ -6,7 +6,7 @@
 
 A collection of hands-on projects exploring Large Language Models (LLMs), Generative AI, and AI application development using Python.
 
-The projects cover LLM integration, prompt engineering, web scraping, tokenization, conversation management, multi-model orchestration, and building interactive AI applications using both cloud-based and locally hosted models.
+The projects cover LLM integration, prompt engineering, web scraping, tokenization, conversation management, multi-model orchestration, and building interactive AI applications using cloud-based and locally hosted models.
 
 ## Projects
 
@@ -66,6 +66,14 @@ A Python notebook demonstrating how to build interactive AI applications using G
 
 [View Project](./ai-gradio-llm-applications-manish-kundu.ipynb)
 
+### 8. AI Conversational Chatbot
+
+A Python notebook demonstrating how to build a conversational AI chatbot using OpenAI APIs and Gradio. Covers conversation history, streaming responses, system prompting, and dynamic context for business-specific chatbot applications.
+
+**Technologies:** Python, OpenAI API, Gradio, python-dotenv, Chat Completion APIs, Prompt Engineering, Jupyter Notebook.
+
+[View Project](./ai-conversational-chatbot-manish-kundu.ipynb)
+
 ## Technologies & Topics
 
 - Python and Jupyter Notebooks
@@ -77,13 +85,15 @@ A Python notebook demonstrating how to build interactive AI applications using G
 - Groq, xAI and OpenRouter
 - LiteLLM and LangChain
 - Gradio and Interactive AI Applications
+- Conversational AI Chatbots
 - Tokenization and Token Counting
 - Chat Completion APIs
-- Prompt Engineering
+- Prompt Engineering and System Prompts
 - Generative AI
 - Web Scraping and Content Extraction
 - API Integration
-- Conversation Context Management
+- Conversation History and Context Management
+- Dynamic Prompt Context
 - Prompt Caching
 - Multi-Agent Conversations
 - Streaming LLM Responses
