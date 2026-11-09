@@ -6,7 +6,7 @@
 
 A collection of hands-on projects exploring Large Language Models (LLMs), Generative AI, and AI application development using Python.
 
-The projects cover LLM integration, prompt engineering, web scraping, tokenization, conversation management, multi-model orchestration, and building interactive AI applications using cloud-based and locally hosted models.
+The projects cover LLM integration, prompt engineering, web scraping, tokenization, conversation management, multi-model orchestration, code generation, and building interactive AI applications using cloud-based and locally hosted models.
 
 ## Projects
 
@@ -114,6 +114,14 @@ A Python notebook exploring how LLM tokenizers convert text into token IDs. Cove
 
 [View Project](./ai-tokenizers-and-text-processing-manish-kundu.ipynb)
 
+### 14. AI Python-to-C++ Code Generator
+
+A Python application that uses a Large Language Model (LLM) to convert Python code into equivalent C++ code. Demonstrates AI-powered code translation through prompt engineering and LLM integration.
+
+**Technologies:** Python, LLM APIs, Prompt Engineering, Code Generation, Python-to-C++ Translation, Jupyter Notebook.
+
+[View Project](./ai-python-to-cpp-code-generator-manish-kundu.ipynb)
+
 ## Technologies & Topics
 
 - Python and Jupyter Notebooks
@@ -153,6 +161,9 @@ A Python notebook exploring how LLM tokenizers convert text into token IDs. Cove
 - Multimodal AI Applications
 - SVG Generation and Rendering
 - LLM Model Comparison and Benchmarking
+- AI-Powered Code Generation
+- Python-to-C++ Code Translation
+- Code Transformation Using LLMs
 - AI Application Development
 
 ## Author
