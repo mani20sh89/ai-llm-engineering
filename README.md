@@ -6,7 +6,7 @@
 
 A collection of hands-on projects exploring Large Language Models (LLMs), Generative AI, and AI application development using Python.
 
-The projects cover LLM integration, prompt engineering, web scraping, tokenization, conversation management, multi-model orchestration, code generation, and building interactive AI applications using cloud-based and locally hosted models.
+The projects cover LLM integration, prompt engineering, web scraping, tokenization, conversation management, multi-model orchestration, AI-powered code generation, performance benchmarking, and interactive AI applications using cloud-based and locally hosted models.
 
 ## Projects
 
@@ -122,6 +122,14 @@ A Python application that uses a Large Language Model (LLM) to convert Python co
 
 [View Project](./ai-python-to-cpp-code-generator-manish-kundu.ipynb)
 
+### 15. AI High-Performance Python-to-C++ Code Generator
+
+A Python application that uses multiple LLM providers and locally hosted models to translate Python code into high-performance C++ code. Features an interactive Gradio interface for model selection and code conversion, system-aware optimisation prompts, and automated C++ compilation and execution using Clang. Also explores comparing generated code performance across different LLMs.
+
+**Technologies:** Python, OpenAI API, Anthropic API, Google Gemini, Grok, Groq, OpenRouter, Ollama, Gradio, C++, Clang, Subprocess, Model Benchmarking, Jupyter Notebook.
+
+[View Project](./day4_cleaned.ipynb)
+
 ## Technologies & Topics
 
 - Python and Jupyter Notebooks
@@ -164,6 +172,8 @@ A Python application that uses a Large Language Model (LLM) to convert Python co
 - AI-Powered Code Generation
 - Python-to-C++ Code Translation
 - Code Transformation Using LLMs
+- C++ Compilation and Execution
+- Performance Optimisation Using LLMs
 - AI Application Development
 
 ## Author
